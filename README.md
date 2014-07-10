@@ -1,4 +1,7 @@
-lapack-bin
-==========
+Linear Algebra Package Binary Pack
+==================================
 
-Linear Algebra Pack binaries for Heroku Python buildpacks
+This repository is used by Heroku Buildpack in order to download precompiled
+binaries of [lapack](http://www.netlib.org/lapack/). This repository should be
+updated regularly with latest stable releases of
+[lapack](http://www.netlib.org/lapack/).
